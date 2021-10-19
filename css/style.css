@@ -63,8 +63,12 @@ html {
      
 }
 
+.shoes-container img {
+    width: 80%;
+}
+
 .shoes-container > h1 {
-    font-size: 4em;
+    font-size: 3vw;
     color: yellow;
 }
 
