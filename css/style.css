@@ -80,3 +80,10 @@ html {
 #third h1 {
     color: green;
 }
+
+
+/* button hover */
+
+a:hover {
+    box-shadow: 0 0 10px black;
+}
